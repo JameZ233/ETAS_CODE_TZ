@@ -1,0 +1,7 @@
+Catalog,Location,Start Year,Center Lat,Center Long,Del Lat,Del Long,Max Depth,Compl. Mag,Delta Deg,GridSize Deg,Mag Large,Min Mag,Max Lambda,Min Lambda,Nsteps,Fcast (Yr),,
+LosAngeles,Los Angeles,1970,34.0522,-118.2437,10,10,30,2.99,5,1,6.75,3.29,1000000,1.8,36,3,,
+Tokyo,Tokyo,2000,35.6762,139.6503,10,10,35,3,5,1,7,4,0.01,3,21,3,,Min Lambda = 1.1
+Greece,Karpenissi,1990,38.9149,21.7936,10,10,35,3,2,1,6.25,4,1,1.5,30,8,,Max Lambda = 1
+Chile,Maule,2000,-35.5183,-71.6885,10,10,30,3,5,1,7.25,4,0.75,3,21,3.5,,
+ETAS,ETAS Los Angeles,1970,34.0522,-118.2437,10,10,30,2.99,5,1,6.5,3.29,1000000,1.8,36,3,,
+Osaka,Osaka,2005,34.6937,135.5023,10,10,35,3,6,1,6,4,0.01,3,21,3,,Min Lambda = 1.1
